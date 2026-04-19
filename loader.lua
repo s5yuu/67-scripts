@@ -10,7 +10,7 @@ task.spawn(function()
 
     local scripts = {
         [82866880824588] = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/ff3.lua",
-        [8110542478972]  = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/ff3.lua",
+        [81310542478972]  = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/ff3.lua",
         [71832465156084] = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua",
         [14386691987]    = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua"
     }
