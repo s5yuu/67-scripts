@@ -11,8 +11,8 @@ task.spawn(function()
     local scripts = {
         [82866880824588] = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ac69cb6855ac9e9c1f3711ad140d5818.lua"))()",
         [81310542478972]  = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ac69cb6855ac9e9c1f3711ad140d5818.lua"))()",
-        [71832465156084] = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua",
-        [14386691987]    = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua"
+        [71832465156084] = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/c27099bd74ba1246c7494d46059b98e7.lua"))()",
+        [14386691987]    = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/c27099bd74ba1246c7494d46059b98e7.lua"))()"
     }
 
     local url = scripts[PlaceID]
