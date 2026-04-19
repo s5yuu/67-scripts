@@ -9,8 +9,8 @@ task.spawn(function()
     task.wait(2.5)
 
     local scripts = {
-        [82866880824588] = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/ff3.lua",
-        [81310542478972]  = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/ff3.lua",
+        [82866880824588] = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ac69cb6855ac9e9c1f3711ad140d5818.lua"))()",
+        [81310542478972]  = "loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ac69cb6855ac9e9c1f3711ad140d5818.lua"))()",
         [71832465156084] = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua",
         [14386691987]    = "https://raw.githubusercontent.com/s5yuu/67-scripts/refs/heads/main/bbl.lua"
     }
